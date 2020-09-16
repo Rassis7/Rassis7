@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**Rassis7/Rassis7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <h1 align="center">Bem vindo!</h1>
+ <p align="center">Aqui é o meu laboratório de testes (e também de trabalho)</p>
+</p>
 
-Here are some ideas to get you started:
+### Um pouco mais de mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou à frente de um aplicativo desenvolvido em React Native com Graphql
+- 💻 Estou aprofundando no estudo de testes e aplicações escaláveis
+- 🚀 Sempre atrás de desafios técnicos e de liderança
+- 🎯 Em busca de me tornar mais humano, para ser um bom líder
+- 💬 Alguma dúvida?
+- 📫 <a href="https://api.whatsapp.com/send?phone=5532991341459" target="_blank">Se quiser bater um papo, só clicar aqui!!</a>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rassis7&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rassis7&hide=php&layout=compact" />
+</a>
