@@ -18,5 +18,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rassis7&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rassis7&hide=php&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rassis7&hide=php&layout=compact" />
 </a>
