@@ -6,7 +6,7 @@
 
 ### Um pouco mais de mim
 
-- 🔭 Atualmente estou à frente de um aplicativo desenvolvido em React Native com Graphql
+- 🔭 Atualmente estou à frente de um aplicativo que está sendo desenvolvido em React Native com Graphql
 - 💻 Estou aprofundando no estudo de testes e aplicações escaláveis
 - 🚀 Sempre atrás de desafios técnicos e de liderança
 - 🎯 Em busca de me tornar mais humano, para ser um bom líder
