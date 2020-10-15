@@ -13,10 +13,8 @@
 - 💬 Alguma dúvida?
 - 📫 <a href="https://api.whatsapp.com/send?phone=5532991341459" target="_blank">Se quiser bater um papo, só clicar aqui!!</a>
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rassis7&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rassis7&count_private=true&hide=php&layout=compact" />
-</a>
+<p align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats"  >
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rassis7&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs" />
+ </a>
+</p>
