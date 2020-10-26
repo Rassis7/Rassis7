@@ -2,8 +2,12 @@
 <p align="center">
  <h1 align="center">Bem vindo!</h1>
  <p align="center">
+  <a href="https://www.linkedin.com/in/romulo-assis/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="romuloassis" height="20" width="20" /></a>
+  <a href="https://www.instagram.com/romuloassis.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="romuloassis" height="20" width="20" /></a>
+ </p>
+ <p align="center">
   <strong>Aqui é o meu laboratório de testes (e também de trabalho)!!</strong>
-</p>
+ </p>
 </p>
 
 ### Um pouco mais de mim
@@ -20,9 +24,5 @@
  </a>
 </p>
 
-## Siga-me nas redes sociais!!
 
-<p align="center">
-<a href="https://www.linkedin.com/in/romulo-assis/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="romuloassis" height="20" width="20" /></a>
-<a href="https://www.instagram.com/romuloassis.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="romuloassis" height="20" width="20" /></a>
-</p>
+
