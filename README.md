@@ -1,7 +1,9 @@
 
 <p align="center">
  <h1 align="center">Bem vindo!</h1>
- <p align="center">Aqui é o meu laboratório de testes (e também de trabalho)</p>
+ <p align="center">
+  <strong>Aqui é o meu laboratório de testes (e também de trabalho)</strong>
+</p>
 </p>
 
 ### Um pouco mais de mim
