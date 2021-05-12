@@ -12,7 +12,7 @@
 
 ### Um pouco mais de mim
 
- 🔭 &nbsp;Atualmente estou à frente de um projeto pessoal envolvendo IOT <br>
+ 🔭 &nbsp;Atualmente estou à frente de um projeto pessoal envolvendo Javascript com IOT <br>
  💻 &nbsp;Estou aprofundando no estudos em arquitetura e aplicações font-end/mobile escaláveis <br>
  🚀 &nbsp;Sempre atrás de desafios técnicos e de liderança <br>
  🎯 &nbsp;Em busca de me tornar mais humano, para ser um bom líder! <br>
