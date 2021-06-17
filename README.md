@@ -12,8 +12,8 @@
 
 ### Um pouco mais de mim
 
- 🔭 &nbsp;Atualmente estou à frente de um projeto pessoal envolvendo Javascript com IOT <br>
- 💻 &nbsp;Estou aprofundando no estudos em arquitetura e aplicações font-end/mobile escaláveis <br>
+ 🔭 &nbsp;Atualmente estou à frente de um projeto pessoal envolvendo IOT <br>
+ 💻 &nbsp;Em busca de arquiteturas de aplicações font-end/mobile escaláveis <br>
  🚀 &nbsp;Sempre atrás de desafios técnicos e de liderança <br>
  🎯 &nbsp;Em busca de me tornar mais humano, para ser um bom líder! <br>
 </strong> 📫 <a href="https://api.whatsapp.com/send?phone=5532991341459" target="_blank">&nbsp;Bora bater um papo? Só chamar!!</a></strong> 
