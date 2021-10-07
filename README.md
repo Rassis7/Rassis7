@@ -12,7 +12,7 @@
  <h4>
   Apaixonado por empreendedorismo e tecnologia. Atualmente atuo como <strong>front-end engineer</strong> na <strong>@movidesk</strong> e faço alguns empreendimentos com a <strong>@olloapp</strong>.
   <br />
-  Brinco um pouco com IOT e automações residencial, me considero um "grande" filosofo quando o tema é arquitetura de software, inovação e aplicações escaláveis, mas claro, as prosas sempre são melhores com uma boa IPA 🍺  ou forte expresso ☕ 
+  Brinco um pouco com IOT e automações residencial, me considero um "grande" filosofo quando o tema é arquitetura de software, inovação e aplicações escaláveis, mas claro, as prosas sempre são melhores com uma boa cerveja 🍺  ou um forte expresso ☕ 
  </h4>
 
 <br/>
