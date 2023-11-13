@@ -1,18 +1,11 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/6963242/128451324-3a7b02f7-9453-4e1d-b630-bebaa9030890.png"  width="550"/> 
-</p>
-
- 
-<div align="center">
+<div>
   <h1>Hello There!! 👩‍🚀 👽</h1>
   <strong>Here is my testing lab and work too 🤖🔥</strong>
 </p>
-   <p>
-  I have been working as a software developer since 2014. Currently, I work at @ifood as a Front-end Engineer. I am also the creator of <a href="https://ollo.li" target="_blank">ollo.li</a>, a platform that aims to generate and manage short links for marketing campaigns. Here you can follow my work and new projects
- </p>
-</div>
+     
+ > I have been working as a software developer since 2014. Currently, I work at @ifood as a Front-end Engineer. I am also the creator of <a href="https://ollo.li" target="_blank">ollo.li</a>, a platform that aims to generate and manage short links for marketing campaigns. Here you can follow my work and new projects
 
---- 
+</div>
 
 <h3>Abount me:</h3>  
  <p>
@@ -38,24 +31,25 @@
   }
 ```
 
+<div  align="center">
+    <a href="https://api.whatsapp.com/send?phone=5532991341459">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a> 
+    <a href="https://www.linkedin.com/in/romulo-assis/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a>
+</div>
+    
 ---
-
 
 <div  align="center">
-  <p>
-    <h3>
-    <a href="https://api.whatsapp.com/send?phone=5532991341459">💬  WhatsApp</a> 
-    | 
-    <a href="https://www.linkedin.com/in/romulo-assis/">💼  LinkedIn<a></h3>
-  </p>
-
----
-
+  
 ```
 🚨🚨🚨🚨🚨🚨
 I'm planning to reorganize my GitHub.
 I intend to remove old repositories and add new ones that align with my current professional focus.
 🚨🚨🚨🚨🚨🚨
 ```
+
 </div>
  
