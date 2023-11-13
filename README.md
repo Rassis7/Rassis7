@@ -9,7 +9,7 @@
 
 <h3>Abount me:</h3>  
  <p>
-  I was a back-end engineer, fullstack and mobile, now I'm a front-end engineer.
+  I was a back-end, fullstack and mobile developer, now I'm a front-end engineer.
   I have experience from big to small companies and in different products types, as Payment methods, chatbots, help/service desk and now with food delivery.
   I’ve always been adapting and learning new technical concepts and ways of leading.
   Day by day, I seek to act maintaining the passion for what I do, with sense of ownership and balancing between the human and the rational.
