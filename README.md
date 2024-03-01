@@ -24,10 +24,10 @@
     last_name: "Assis",
     country: "Brazil
     email: "romuloassis.as@gmail.com",
-    main_stacks: ["React JS", "NodeJS", "React Native"],
+    main_stacks: ["React JS", "NodeJS", "NextJs"],
     programmer_since: 2014
-    currently_work_company: "ifood",
-    personal_company: "ollo"
+    currently_work_companys: "iFood 🍔"
+    personal_company: "ollo" 
   }
 ```
 
