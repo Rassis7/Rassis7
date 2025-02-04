@@ -17,10 +17,10 @@ I am currently specializing in Artificial Intelligence and returning to back-end
   const person = {
     first_name: "Romulo",
     last_name: "Assis",
-    country: "Brazil
+    country: "Brazil",
     email: "romuloassis.as@gmail.com",
     main_stacks: ["Javascript (NodeJS and React)", "Pyhton"],
-    programmer_since: 2014
+    programmer_since: "2014",
     currently_work_companys: "iFood 🍔"
   }
 ```
