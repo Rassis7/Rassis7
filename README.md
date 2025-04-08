@@ -19,7 +19,7 @@ I am currently specializing in Artificial Intelligence and returning to back-end
     last_name: "Assis",
     country: "Brazil",
     email: "romuloassis.as@gmail.com",
-    main_stacks: ["Javascript (NodeJS and React)", "Pyhton"],
+    main_stacks: ["Javascript (NodeJS and React)", "Python"],
     programmer_since: "2014",
     currently_work_companys: "iFood 🍔"
   }
